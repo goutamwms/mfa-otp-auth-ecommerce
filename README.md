@@ -162,3 +162,4 @@ This project follows **Clean Architecture** principles with the following layers
 ## Screenshot
 
 ![otp verify](https://github.com/user-attachments/assets/9ab44eb4-eda1-4549-878a-24b7d3100511)
+![Screenshot_9-4-2026_114232_localhost](https://github.com/user-attachments/assets/c78aad5f-c119-4a87-a84c-1dcaecc2f7be)
